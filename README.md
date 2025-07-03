@@ -34,4 +34,4 @@
 ## 💡 نصب فقط با یک دستور:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/IRRadar/scripts/main/irr_setup.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/parsico/mirror/main/IRStorm.sh)
