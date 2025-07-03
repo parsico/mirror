@@ -35,3 +35,6 @@
 
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/parsico/mirror/main/IRStorm.sh)
+```
+
+با تشکر از منیجیت برای ارائه سرویس های میرور و داکر
